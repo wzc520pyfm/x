@@ -258,7 +258,7 @@ export default Demo;
 
 Welcome to contribute!
 
-Vue Implementation: [Ant Design X Vue](https://github.com/wzc520pyfm/ant-design-x-vue)(WIP)
+Vue Implementation: [Ant Design X Vue](https://github.com/wzc520pyfm/ant-design-x-vue)
 
 ## Companies using antdx
 
